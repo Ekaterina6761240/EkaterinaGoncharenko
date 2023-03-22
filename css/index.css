@@ -1,0 +1,57 @@
+.contact1 {
+  margin: 20px;
+  width: 20px;
+  border: 5px;
+}
+.contact2 {
+  margin: 20px;
+  width: 20px;
+  border: 5px;
+}
+.name {
+  color: rgba(63, 49, 36, 0.711);
+  margin: 50px 300px 0px 400px;
+  font-family: "Monotype Corsiva" Cursive;
+  font-weight: bolder;
+  font-style: italic;
+  font-size: 150px;
+}
+body {
+  background-image: url(//sun9-72.userapi.com/impg/qhV9S1V1NhZTU9dzqR4WfmrF3FSgFPuATaFAqg/Ny3zUDzsnok.jpg?size=1439x2160&quality=96&sign=651003baebb435e411d05c311c320655&type=album);
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 10px;
+  background-size: 1250px 1250px;
+  background-color: rgb(230, 238, 170);
+}
+
+.surname {
+  color: rgb(63, 49, 36);
+  margin: 0px 100px 50px 300px;
+  font-size: 150px;
+  font-weight: bolder;
+}
+.contenting {
+  font-size: 50px;
+  background-color: transparent;
+  color: rgb(63, 49, 36);
+}
+.myForm {
+  display: inline-block;
+  color: rgba(240, 248, 255, 0.651);
+  font-weight: 500;
+  text-decoration: none;
+  user-select: none;
+  padding: 0.5em 2em;
+  outline: none;
+  border: 2px solid;
+  border-radius: 1px;
+  transition: 0.2s;
+  margin: 0px;
+}
+.contact {
+  margin-left: 1360px;
+}
+.contentTable {
+  margin-left: 90px;
+}
